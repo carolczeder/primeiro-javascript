@@ -1,4 +1,4 @@
-Primeiro JavaScript
+Meu Primeiro Programa JavaScript
 
 Este é o meu primeiro programa JavaScript, que criei como parte de minha jornada de aprendizado em desenvolvimento web. O objetivo deste programa simples é receber o nome do usuário e saudá-lo de maneira personalizada.
 
